@@ -1,3 +1,20 @@
 .complete {
   text-decoration: line-through;
 }
+
+li {
+  font-size: 22px;
+}
+
+
+input {
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+
+button {
+  border-radius: 8px;
+  padding: 5px 10px;
+  background-color: lightpink;
+  font-weight: bold;
+}
